@@ -1,0 +1,6 @@
+c:\Users\movie\Desktop\Neo\contracts\First\test\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\movie\Desktop\Neo\contracts\First\test\obj\Debug\net6.0\FirstContractTests.csproj.AssemblyReference.cache
+c:\Users\movie\Desktop\Neo\contracts\First\test\obj\Debug\net6.0\FirstContractTests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\movie\Desktop\Neo\contracts\First\test\obj\Debug\net6.0\FirstContractTests.AssemblyInfoInputs.cache
+c:\Users\movie\Desktop\Neo\contracts\First\test\obj\Debug\net6.0\FirstContractTests.AssemblyInfo.cs
+c:\Users\movie\Desktop\Neo\contracts\First\test\obj\Debug\net6.0\FirstContractTests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYJfI8aFwo5iGbEKD4CqvNiqeQOBaDbCp2OeildGGTTQ2lWr6vPaKJYxSVwhlg6isns3T+w9mznBkwrlNhLSYw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\movie\\Desktop\\Neo\\contracts\\Masum\\src\\MasumContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\movie\\.nuget\\packages\\neo.buildtasks\\3.5.17\\neo.buildtasks.3.5.17.nupkg.sha512",
+    "C:\\Users\\movie\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MasumContract depends on Neo.BuildTasks (>= 3.5.15) but Neo.BuildTasks 3.5.15 was not found. An approximate best match of Neo.BuildTasks 3.5.17 was resolved.",
+      "libraryId": "Neo.BuildTasks",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

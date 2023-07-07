@@ -1,0 +1,12 @@
+c:\Users\movie\Desktop\Neo\contracts\First\src\bin\Debug\net6.0\FirstContract.deps.json
+c:\Users\movie\Desktop\Neo\contracts\First\src\bin\Debug\net6.0\FirstContract.dll
+c:\Users\movie\Desktop\Neo\contracts\First\src\bin\Debug\net6.0\FirstContract.pdb
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\FirstContract.csproj.AssemblyReference.cache
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\FirstContract.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\FirstContract.AssemblyInfoInputs.cache
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\FirstContract.AssemblyInfo.cs
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\FirstContract.csproj.CoreCompileInputs.cache
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\FirstContract.dll
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\refint\FirstContract.dll
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\FirstContract.pdb
+c:\Users\movie\Desktop\Neo\contracts\First\src\obj\Debug\net6.0\ref\FirstContract.dll
